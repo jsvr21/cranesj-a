@@ -1,0 +1,105 @@
+[
+  {
+    "clienteId": "3",
+    "nombreCliente": [
+      "Jenifer Viafara"
+    ],
+    "productos": [
+      {
+        "id": 8,
+        "nombre": "Queso cuajada",
+        "cantidad": 1,
+        "precio": [
+          "8000"
+        ]
+      }
+    ],
+    "estadoPago": "No Pagado",
+    "totalVenta": 8000,
+    "id": 9
+  },
+  {
+    "clienteId": "1",
+    "nombreCliente": [
+      "Jorman Viafara Renteria"
+    ],
+    "productos": [
+      {
+        "id": 3,
+        "nombre": "Arepas tipo tela",
+        "cantidad": 2,
+        "precio": [
+          "6000"
+        ]
+      },
+      {
+        "id": 4,
+        "nombre": "Arepas de queso",
+        "cantidad": 2,
+        "precio": [
+          "8000"
+        ]
+      }
+    ],
+    "estadoPago": "No Pagado",
+    "totalVenta": 28000,
+    "id": 10
+  },
+  {
+    "clienteId": "4",
+    "nombreCliente": [
+      "Ana lucia renteria"
+    ],
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Alitas BBQ",
+        "cantidad": 2,
+        "precio": "15000"
+      },
+      {
+        "id": 2,
+        "nombre": "Costillas BBQ",
+        "cantidad": 2,
+        "precio": "16000"
+      }
+    ],
+    "estadoPago": "Pagado",
+    "totalVenta": 62000,
+    "id": 11
+  },
+  {
+    "clienteId": "2",
+    "nombreCliente": [
+      "Duvan Viafara Renteria"
+    ],
+    "productos": [
+      {
+        "id": 8,
+        "nombre": "Queso cuajada",
+        "cantidad": 1,
+        "precio": "8000"
+      }
+    ],
+    "estadoPago": "No Pagado",
+    "totalVenta": 8000,
+    "id": 12
+  },
+  {
+    "clienteId": "1",
+    "nombreCliente": [
+      "Jorman Viafara Renteria"
+    ],
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Alitas BBQ",
+        "cantidad": 1,
+        "precio": "15000"
+      }
+    ],
+    "estadoPago": "No Pagado",
+    "totalVenta": 15000,
+    "id": 13
+  }
+]

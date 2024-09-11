@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombreCliente": "Jorman Viafara Renteria",
+    "numero": "3225697799"
+  },
+  {
+    "nombreCliente": "Duvan Viafara Renteria",
+    "numero": "3215340798",
+    "id": 2
+  },
+  {
+    "nombreCliente": "Jenifer Viafara",
+    "numero": "3006727749",
+    "id": 3
+  },
+  {
+    "nombreCliente": "Ana lucia renteria",
+    "numero": "3008132322",
+    "id": 4
+  }
+]
