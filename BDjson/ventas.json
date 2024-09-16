@@ -1,0 +1,40 @@
+[
+  {
+    "clienteId": "1",
+    "nombreCliente": [
+      "Jorman Viafara Renteria"
+    ],
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Alitas BBQ",
+        "cantidad": 2,
+        "precio": "15000"
+      }
+    ],
+    "estadoPago": "No Pagado",
+    "descripcion": "Indica que pagara el 30 de octubre.",
+    "fechaVenta": "12 de septiembre de 2024 a las 8:30 am",
+    "totalVenta": 30000,
+    "id": 1
+  },
+  {
+    "clienteId": "3",
+    "nombreCliente": [
+      "Jenifer Viafara"
+    ],
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Alitas BBQ",
+        "cantidad": 1,
+        "precio": "15000"
+      }
+    ],
+    "estadoPago": "Pagado",
+    "descripcion": "Hizo el pago con un billete de 50, se le devolvió 35 mil pesos, completos y verificados por parte de ella.",
+    "fechaVenta": "12 de septiembre de 2024 a las 10:08 am",
+    "totalVenta": 15000,
+    "id": 2
+  }
+]
