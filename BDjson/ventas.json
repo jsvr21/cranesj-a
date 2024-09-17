@@ -55,5 +55,24 @@
     "fechaVenta": "17 de septiembre de 2024 a las 11:12 am",
     "totalVenta": 80000,
     "id": 3
+  },
+  {
+    "clienteId": "5",
+    "nombreCliente": [
+      "Yaneth Aguilar"
+    ],
+    "productos": [
+      {
+        "id": 3,
+        "nombre": "Arepas tipo tela",
+        "cantidad": 1,
+        "precio": "6000"
+      }
+    ],
+    "estadoPago": "No Pagado",
+    "descripcion": "paga hoy 17 de septiembre",
+    "fechaVenta": "17 de septiembre de 2024 a las 11:16 am",
+    "totalVenta": 6000,
+    "id": 4
   }
 ]
