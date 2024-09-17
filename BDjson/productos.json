@@ -53,5 +53,10 @@
     "nombreProducto": "prueba",
     "precio": "31233",
     "cantidad": "3"
+  },
+  {
+    "nombreProducto": "prueba",
+    "precio": "3133",
+    "cantidad": "2"
   }
 ]
