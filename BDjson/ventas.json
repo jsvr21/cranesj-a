@@ -36,5 +36,24 @@
     "fechaVenta": "12 de septiembre de 2024 a las 10:08 am",
     "totalVenta": 15000,
     "id": 2
+  },
+  {
+    "clienteId": "5",
+    "nombreCliente": [
+      "Yaneth Aguilar"
+    ],
+    "productos": [
+      {
+        "id": 8,
+        "nombre": "Queso cuajada",
+        "cantidad": 5,
+        "precio": "8000"
+      }
+    ],
+    "estadoPago": "No Pagado",
+    "descripcion": "Paga el 30 de octubre",
+    "fechaVenta": "17 de septiembre de 2024 a las 11:23 am",
+    "totalVenta": 40000,
+    "id": 3
   }
 ]
