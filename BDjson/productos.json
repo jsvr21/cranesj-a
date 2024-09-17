@@ -52,5 +52,10 @@
     "nombreProducto": "prueba",
     "precio": "3133",
     "cantidad": "2"
+  },
+  {
+    "nombreProducto": "Queso cuajada",
+    "precio": "8000",
+    "cantidad": "10"
   }
 ]
