@@ -50,7 +50,7 @@
         "precio": "16000"
       }
     ],
-    "estadoPago": "No Pagado",
+    "estadoPago": "Pagado",
     "descripcion": "Paga el 30 de octubre",
     "fechaVenta": "17 de septiembre de 2024 a las 11:12 am",
     "totalVenta": 80000,
