@@ -42,20 +42,5 @@
     "precio": "15000",
     "cantidad": "10",
     "id": 7
-  },
-  {
-    "nombreProducto": "prueba",
-    "precio": "31233",
-    "cantidad": "3"
-  },
-  {
-    "nombreProducto": "prueba",
-    "precio": "3133",
-    "cantidad": "2"
-  },
-  {
-    "nombreProducto": "Queso cuajada",
-    "precio": "8000",
-    "cantidad": "10"
   }
 ]
