@@ -31,7 +31,7 @@
         "precio": "15000"
       }
     ],
-    "estadoPago": "No Pagado",
+    "estadoPago": "Pagado",
     "descripcion": "Hizo el pago con un billete de 50, se le devolvió 35 mil pesos, completos y verificados por parte de ella.",
     "fechaVenta": "12 de septiembre de 2024 a las 10:08 am",
     "totalVenta": 15000,
