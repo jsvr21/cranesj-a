@@ -46,7 +46,7 @@
   {
     "nombreProducto": "Queso cuajada",
     "precio": "8000",
-    "cantidad": 5,
+    "cantidad": "10",
     "id": 8
   }
 ]
