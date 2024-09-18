@@ -55,5 +55,24 @@
     "fechaVenta": "17 de septiembre de 2024 a las 11:23 am",
     "totalVenta": 40000,
     "id": 3
+  },
+  {
+    "clienteId": "2",
+    "nombreCliente": [
+      "Duvan Viafara Renteria"
+    ],
+    "productos": [
+      {
+        "id": 6,
+        "nombre": "Tocineta 250g",
+        "cantidad": 2,
+        "precio": "15000"
+      }
+    ],
+    "estadoPago": "No Pagado",
+    "descripcion": "Dijo que pagaba mañana",
+    "fechaVenta": "18 de septiembre de 2024 a las 4:19 pm",
+    "totalVenta": 30000,
+    "id": 4
   }
 ]
