@@ -52,7 +52,7 @@
   {
     "nombreProducto": "Alitas finas hierbas",
     "precio": "15000",
-    "cantidad": "12",
+    "cantidad": 10,
     "id": 9
   }
 ]
