@@ -93,5 +93,24 @@
     "fechaVenta": "24 de septiembre de 2024 a las 10:23 am",
     "totalVenta": 30000,
     "id": 5
+  },
+  {
+    "clienteId": "5",
+    "nombreCliente": [
+      "Yaneth Aguilar"
+    ],
+    "productos": [
+      {
+        "id": 4,
+        "nombre": "Arepas de queso",
+        "cantidad": 3,
+        "precio": "8000"
+      }
+    ],
+    "estadoPago": "Pagado",
+    "descripcion": "prueba",
+    "fechaVenta": "2 de octubre de 2024 a las 7:45 am",
+    "totalVenta": 24000,
+    "id": 6
   }
 ]
