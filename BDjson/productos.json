@@ -54,5 +54,11 @@
     "precio": "15000",
     "cantidad": "12",
     "id": 9
+  },
+  {
+    "nombreProducto": "arepas doble fax",
+    "precio": "10000",
+    "cantidad": "20",
+    "id": 10
   }
 ]
